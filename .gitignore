@@ -1,0 +1,14 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Jupyter & IPython
+.ipynb_checkpoints/
+.ipython/
+.mplconfig/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
